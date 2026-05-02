@@ -1,0 +1,21 @@
+FLAGGED IMAGES — 17 total
+These images were saved but may need manual review.
+============================================================
+
+[cartoon_or_logo] data\raw\train\apple\Image_90.jpg
+[cartoon_or_logo] data\raw\train\carrot\Image_28.jpg
+[extreme_brightness] data\raw\train\carrot\Image_5.jpg
+[extreme_brightness] data\raw\train\carrot\Image_98.jpg
+[cartoon_or_logo] data\raw\train\chilli pepper\Image_59.jpg
+[cartoon_or_logo] data\raw\train\chilli pepper\Image_66.jpg
+[extreme_brightness] data\raw\train\garlic\Image_41.jpg
+[extreme_brightness] data\raw\train\lemon\Image_80.jpg
+[extreme_brightness] data\raw\train\onion\Image_53.jpg
+[cartoon_or_logo] data\raw\train\raddish\Image_34.jpg
+[extreme_brightness] data\raw\train\turnip\Image_100.jpg
+[extreme_brightness] data\raw\train\turnip\Image_7.jpg
+[extreme_brightness] data\raw\train\turnip\Image_73.jpg
+[extreme_brightness] data\raw\validation\carrot\Image_6.jpg
+[extreme_brightness] data\raw\validation\turnip\Image_7.jpg
+[extreme_brightness] data\raw\test\carrot\Image_6.jpg
+[extreme_brightness] data\raw\test\turnip\Image_7.jpg

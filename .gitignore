@@ -1,0 +1,19 @@
+# Data — too large for GitHub
+data/
+
+# Model weights — goes on Hugging Face instead
+models/best_model.pth
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Zip files
+*.zip
