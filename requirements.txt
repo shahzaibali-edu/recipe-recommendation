@@ -1,0 +1,9 @@
+torch
+torchvision
+pillow
+matplotlib
+numpy
+requests
+python-dotenv
+streamlit
+ultralytics
