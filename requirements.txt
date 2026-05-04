@@ -1,9 +1,18 @@
+# Deep learning framework required for loading and running the AI models
 torch
+# Used alongside PyTorch for computer vision tasks and image transformations
 torchvision
+# Library for opening, manipulating, and saving image files
 pillow
+# Used for creating visualizations and plotting data (e.g., displaying images)
 matplotlib
+# Core library for numerical computing and array operations
 numpy
+# Used for making HTTP requests (e.g., fetching data from external APIs)
 requests
+# Loads environment variables from a .env file securely (like API keys)
 python-dotenv
+# The web framework used to build the interactive user interface
 streamlit
+# YOLO framework used for object detection (e.g., detecting ingredients)
 ultralytics
